@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bitbli.cn/CN/8533.html</loc>
+    <loc>https://blog.bitbli.cn/8533.html</loc>
     
     <lastmod>2021-01-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bitbli.cn/CN/63303.html</loc>
+    <loc>https://blog.bitbli.cn/63303.html</loc>
     
     <lastmod>2021-01-25</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bitbli.cn/CN/e92f757c.html</loc>
+    <loc>https://blog.bitbli.cn/e92f757c.html</loc>
     
     <lastmod>2021-01-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bitbli.cn/about/index.html</loc>
+    <loc>https://blog.bitbli.cn/about/index.html</loc>
     
     <lastmod>2021-01-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bitbli.cn/categories/index.html</loc>
+    <loc>https://blog.bitbli.cn/categories/index.html</loc>
     
     <lastmod>2021-01-06</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bitbli.cn/tags/index.html</loc>
+    <loc>https://blog.bitbli.cn/tags/index.html</loc>
     
     <lastmod>2021-01-06</lastmod>
     
@@ -45,30 +45,30 @@
   
 
   <url>
-    <loc>https://bitbli.cn/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <loc>https://blog.bitbli.cn/</loc>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://bitbli.cn/tags/hexo/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <loc>https://blog.bitbli.cn/tags/hexo/</loc>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://bitbli.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <loc>https://blog.bitbli.cn/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://bitbli.cn/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <loc>https://blog.bitbli.cn/tags/%E5%9F%9F%E5%90%8D/</loc>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -76,8 +76,8 @@
 
   
   <url>
-    <loc>https://bitbli.cn/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <loc>https://blog.bitbli.cn/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
